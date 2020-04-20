@@ -19,7 +19,7 @@ computerPaddle = createSprite(10,200,10,70);
 //create the pong ball
 ball = createSprite(200,200,12,12);
 
-computerScore = 0;
+computerScore = 8;
 playerScore = 0;
 gameState = "serve";
 }
